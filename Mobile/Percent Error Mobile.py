@@ -31,7 +31,7 @@ def menu():
                     if not dataList:
                         text = True
             if dataList:
-                result = str("Percent Error: "+str(places.format((100*((float(dataList[0]))-(float(dataList[1]))))/(float(dataList[1]))))+" %\n")
+                result = str("Percent Error:\n"+str(places.format((100*((float(dataList[0]))-(float(dataList[1]))))/(float(dataList[1]))))+" %\n")
                 output += result+"\n"
                 print(result)
                 dataList = dataList[2:]
