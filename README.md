@@ -1,4 +1,4 @@
-# Percent-Error
+# Percent Error
 Instantly calculate all your percent differences!
 
 Aviation Apps would like to thank you for installing the Percent Error application.
