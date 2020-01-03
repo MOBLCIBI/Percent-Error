@@ -1,10 +1,21 @@
 # Percent Error
-Instantly calculate all your percent differences!
+## Quickly and Easily Compute Percent Error Calculations
 
-Aviation Apps would like to thank you for installing the Percent Error application.
+Chandler Stevens presents the Percent Error application.
 
-NOTE: The "python34.dll" is a required file that must not be moved or deleted from the installation folder. If the installation is ever corrupted, simply run the Percent Error Installer.exe" setup file again.
+Simply enter these 3 values:
 
-Visit Aviation Apps at: http://aviationapps.myfreesites.net
+- Label (optional)
+- Measured Value
+- Theoretical Value
 
-Percent Error Version 1.0 - February 2017
+To solve this value:
+
+- Percent Error
+
+View GitHub repository at:
+https://github.com/chandler-stevens/Percent-Error
+
+Visit Chandler Stevens at: https://github.com/chandler-stevens
+
+Percent Error Version 1.0 - February 2020
